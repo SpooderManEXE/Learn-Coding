@@ -1,0 +1,37 @@
+html, body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.wrapper {
+  background-color: lightpink;
+  
+  max-width: 50%;
+  display: flex;
+  flex-direction: row;
+  height: 80%;
+}
+
+.left, .right {
+  background-color: lightblue;
+  
+  margin: 5px;
+  max-width: 50%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.left {
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-picture {
+  border-radius: 50%;
+}
