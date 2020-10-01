@@ -1,0 +1,28 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+  <div class="wrapper">
+    <div class="left">
+
+
+      <img class="profile-picture" src="https://www.instagram.com/p/CETI-s3A9tAiIX2dwkjMFEZk_lkXwII3NyIbvI0/?igshid=1x7yg7u83ro7 "width="200"/>
+      <h1 class="name">  SHAJU RAJAN P  </h1>
+      <h4 class="subtitle">  19  </h4>
+
+
+    </div>
+    <div class="right">
+      <p class="bio">
+
+        CODING
+
+      </p>
+      <ul class="social-links">
+
+        <li><a href="https://github.com/SHAJU RAJAN P">  SHAJU RAJAN P </a></li>
+
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
