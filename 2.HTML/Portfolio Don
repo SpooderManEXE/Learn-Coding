@@ -1,0 +1,28 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+  <div class="wrapper">
+    <div class="left">
+
+
+      <img class="profile-picture" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOex0uvvti5JmpIYEmlsvBXPn-ste8nbupFw&usqp=CAU" width="200"/>
+      <h1 class="name">  DON C JOHN  </h1>
+      <h4 class="subtitle"> 22  </h4>
+
+
+    </div>
+    <div class="right">
+      <p class="bio">
+
+        The quieter you become, the more you are able to hear
+
+      </p>
+      <ul class="social-links">
+
+        <li><a href="https://github.com/doncjohn">  doncjohn </a></li>
+
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
