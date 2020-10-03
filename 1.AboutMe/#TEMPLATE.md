@@ -1,7 +1,7 @@
 ---
-name: *Your Name*
-age: *Your Age*
-institution: *Your Institution*
-quote: *Random Quote*
-github_user: *Your UserName*
+name: Kajal Martin
+age: 21
+institution: University College of Engineering
+quote: Belive in You
+github_user: KajalMartin
 ---
