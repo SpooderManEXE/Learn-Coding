@@ -1,0 +1,4 @@
+name, age = "Sangeeth", 20
+username = "sangee2121"
+print ('Hello!')
+print("Name: {Sangeeth}\nAge: {20}\nUsername: {sangee2121}".format(sangeeth, 20, ))
