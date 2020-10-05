@@ -76,7 +76,7 @@ _Do not use special characters in the template above._
 - Create the file YOUR-USERNAME.py
 - Copy the next template into your file and fill the information with yours. (Replace along with * )
 ```
-name, age = "*YOUR NAME*", *YOUR AGE*
+name, age = "*YOUR NAME*", "*YOUR AGE*"
 username = "*YOUR USERNAME*"
 print ('Hello!')
 print("Name: {}\nAge: {}\nUsername: {}".format(name, age, username))
