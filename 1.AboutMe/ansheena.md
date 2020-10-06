@@ -1,6 +1,7 @@
---
-name: ansheena
+---
+name: Ansheena
 age: 19
-institution: farook college
-quote: alas
+institution: Farook College
+quote: Uncertanity is certain
 github_user: ansheenad
+---
