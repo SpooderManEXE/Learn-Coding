@@ -1,0 +1,7 @@
+---
+name:Inshad
+age:18
+institution:Malabar
+quote:Codes
+github_user:MohammedInshad
+---
