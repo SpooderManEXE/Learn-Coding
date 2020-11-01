@@ -1,3 +1,5 @@
+# UPDATE: No longer merging PR's. Thank You for all the participation.
+
 
 # Learn Basic Coding
 
